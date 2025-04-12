@@ -4,8 +4,8 @@ A simple, efficient theme manager for Rofi with bash completion support.
 
 ## DISCLAIMER
 
-Docs were written primarily by an AI, as I don't have time to do it from scratch.
-While they do seem fine at first glance there might be issues in the install guide.
+The install docs were written primarily by an AI, as I don't have time to do it from scratch.
+While they do seem fine at first glance there might be issues in it.
 
 ## Features
 
